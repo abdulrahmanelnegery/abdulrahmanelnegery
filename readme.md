@@ -1,6 +1,6 @@
 # Abdulrahman Muhammed
 
-Backend software engineer with 4+ years building and running production systems: multi-tenant SaaS, payment integrations, message pipelines, and real-time services. I work in PHP, Laravel, MySQL and Redis, and own the Docker / Azure deploy path around them.
+Software engineer with 4+ years building and running production systems: multi-tenant SaaS, payment integrations, message pipelines, and real-time services. I work in PHP, Laravel, MySQL and Redis, and own the Docker / Azure deploy path around them.
 
 Currently focused on production system design: tenant isolation at the query layer, concurrency-safe write paths, idempotent queue jobs across a web and worker split, and multi-gateway payment reconciliation.
 
@@ -68,7 +68,7 @@ Backend for a platform serving hospitals and private practices across the Gulf.
 
 Production marketplace integrations for 10+ sellers, one with a 1M+ SKU catalog.
 - Retry logic, rate-limit handling, and incremental sync so integrations stayed within third-party quotas and survived vendor outages
-- Reindexed 30+ core tables (worst-case queries went from 50 minutes to under 30 seconds); packaged shared patterns into a Laravel starter kit adopted by 15+ projects
+- Reindexed 30+ core tables (worst-case queries went from 5 minutes to under 30 seconds); packaged shared patterns into a Laravel starter kit adopted by 15+ projects
 
 ### Noted · [itsnoted.net](https://itsnoted.net) (live side project)
 `Laravel 11 · PHP 8.4 · MySQL · Redis · Angular`
@@ -116,7 +116,7 @@ Double-entry ledger API. Built to learn Spring Boot properly.
 
 ## Open to Work
 
-Open to remote backend / software engineer roles.
+Open to remote software engineer roles.
 
 ---
 
